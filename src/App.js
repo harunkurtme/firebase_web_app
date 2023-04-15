@@ -21,11 +21,11 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route exact path="/" element={<Dashboard />} />
-          <Route exact path="/login" element={<Login/>} />
-          <Route exact path="/about" element={<About/>} />
-          <Route exact path="/register" element={<Register />} />
-          <Route exact path="/reset" element={<Reset />} />
+          <Route exact path="/firebase_web_app" element={<Dashboard />} />
+          <Route exact path="/firebase_web_app/login" element={<Login/>} />
+          <Route exact path="/firebase_web_app/about" element={<About/>} />
+          <Route exact path="/firebase_web_app/register" element={<Register />} />
+          <Route exact path="/firebase_web_app/reset" element={<Reset />} />
         </Routes>
       </Router>
       

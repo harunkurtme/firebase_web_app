@@ -2,28 +2,22 @@ const data = {
     products: [
         {
             id: '1',
-            name: 'ReactJS',
+            name: 'Dji air',
             price: 450,
-            image: 'https://dummyimage.com/450x300/000/626ef5&text=ReactJS'
+            image: 'https://dummyimage.com/350/000000/ffffff.png&text=DJI+Air'
         },
         {
             id: '2',
-            name: '.net Core',
+            name: 'Dji Mavic',
             price: 600,
-            image: 'https://dummyimage.com/450x300/000/626ef5&text=.net Core'
+            image: 'https://dummyimage.com/350/000000/ffffff.png&text=DJI+Mavic'
         },
         {
             id: '3',
-            name: 'SQL',
+            name: 'Dji Drone',
             price: 400,
-            image: 'https://dummyimage.com/450x300/000/626ef5&text=SQL'
+            image: 'https://dummyimage.com/350/000000/ffffff.png&text=DJI+Drone'
         },
-        // {
-        //     id: '4',
-        //     name: 'JavaScript',
-        //     price: 500,
-        //     image: 'https://dummyimage.com/450x300/000/626ef5&text=JavaScript'
-        // },
     ],
 };
 export default data;
