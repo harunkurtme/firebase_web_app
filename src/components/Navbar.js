@@ -10,7 +10,7 @@ export default function Navbar(props) {
     <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container px-4 px-lg-5">
-          <a class="navbar-brand" href="/">ReactJSepeti</a>
+          <a class="navbar-brand" href="/">Drone Sepeti</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
@@ -26,7 +26,7 @@ export default function Navbar(props) {
                       </ul>
                   </li>
                   
-                  <li class="nav-item topright"><a class="nav-link" href="/firebase_web/login">Sign-In</a></li>
+                  <li class="nav-item topright"><a class="nav-link" href="/firebase_web_app/login">Sign-In</a></li>
 
               </ul>
 
@@ -50,7 +50,7 @@ export default function Navbar(props) {
         <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container px-4 px-lg-5">
-          <a class="navbar-brand" href="/">ReactJSepeti</a>
+          <a class="navbar-brand" href="/">DroneSepetim</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">

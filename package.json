@@ -2,7 +2,7 @@
   "name": "firebase_web_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harunkurtme.github.io/firebase_web_app",
+  "homepage": "https://harunkurtme.github.io/firebase_web_app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
